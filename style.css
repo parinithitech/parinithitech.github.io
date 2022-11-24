@@ -133,10 +133,10 @@ section {
 }
 
 .about-container {
-  height: 70vh;
+  height: 50vh;
   display: block;
   justify-content: space-around;
-  width: 80%;
+  width: 50%;
   margin-top: 15px;
   background-size: cover;
 }
@@ -184,7 +184,7 @@ section {
 
 .offering-content{
   margin-top: 10px;
-  width: 80%;
+  width: 40%;
 }
 
 .offering-content-title{
